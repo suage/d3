@@ -1,3 +1,7 @@
+import "albers";
+import "conic-equal-area";
+import "geo";
+
 d3.geo.albersJpn = function() {
 
     //Japan main
